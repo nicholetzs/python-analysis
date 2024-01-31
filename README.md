@@ -6,4 +6,5 @@ Finally, Plotly.express was used to create amazing visualizations with ease usin
 -> You'll find png photos of the graphics!
 
 ![Partial Average by Bank](https://github.com/nicholetzs/PythonAnalysis/blob/master/images/Partial%20average%20by%20bank)
+![Partial Average per Month](https://github.com/nicholetzs/PythonAnalysis/blob/master/images/Partial%20average%20per%20month)
 
