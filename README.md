@@ -1,0 +1,6 @@
+# Hello, in this small project we used Jupyter Notebook for a better experience with Python 🐍🐍 ⛥
+The Pandas library was also used for data analysis and cleaning. 
+With it, you can create interactive charts, maps, scatter plots, and more.
+Finally, Plotly.express was used to create amazing visualizations with ease using the Python programming language.
+-> I used a .csv file that is not available within this project, you can choose your own file and modify the code as needed
+-> You'll find png photos of the graphics!
